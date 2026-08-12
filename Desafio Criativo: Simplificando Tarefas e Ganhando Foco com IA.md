@@ -1,4 +1,4 @@
-🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
+##🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
 Bem-vindo ao Desafio Criativo.
 Nesta atividade, você seguirá algumas etapas simples que, ao final, irão ajudar a criar prompts claros e úteis usando IA.
 
