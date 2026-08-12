@@ -32,8 +32,6 @@ Nesta etapa, você vai juntar todas as partes em um único prompt claro.
 ## ✨ Meu Prompt
 Quero que a IA gere um roteiro para preparação de entrevista para área de TI para estudantes universitários, com o objetivo de conseguir uma vaga para atuar como service desk pela randstad. Considere o seguinte contexto: a rotina de preparação será diária. O conteúdo deve ter detalhado e completo. Evite fugir do objetivo e assunto em questão. 
 
-Python
-import os
 
 md_content = """<div align="center">
 
