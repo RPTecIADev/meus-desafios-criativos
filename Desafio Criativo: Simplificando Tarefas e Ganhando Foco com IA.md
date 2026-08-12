@@ -1,4 +1,4 @@
-🎯 ##Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
+# 🎯 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
 Bem-vindo ao Desafio Criativo.
 Nesta atividade, você seguirá algumas etapas simples que, ao final, irão ajudar a criar prompts claros e úteis usando IA.
 
@@ -15,24 +15,12 @@ Siga cada passo com atenção, registre suas respostas e, ao final, una todos os
 🧱 Passo 1: Defina a intenção
 Nesta etapa, você vai descrever o que quer que a IA faça e para quem.
 
-✍️ O que fazer
-O que você quer gerar? Para quem? Qual o resultado esperado?
-
-📋 Modelo para você adaptar
-Quero que a IA gere [tipo de conteúdo] para [público], com o objetivo de [resultado].
-
 ✨ Meu Prompt
 Quero que a IA gere um roteiro para preparação de entrevista para área de TI para estudantes universitários, com o objetivo de conseguir uma vaga para atuar como service desk pela randstad. 
 
 
 🧱 Passo 2: Adicione contexto e restrições
 Nesta etapa, você vai detalhar como a resposta deve ser construída.
-
-✍️ O que fazer
-Qual estilo deseja? Tem limite de tamanho? O que deve evitar?
-
-📋 Modelo para você adaptar
-Considere o seguinte contexto: [contexto]. O conteúdo deve ter [formato]. Evite [o que evitar].
 
 ✨ Meu prompt
 Considere o seguinte contexto: a rotina de preparação será diária. O conteúdo deve ter detalhado e completo. Evite fugir do objetivo e assunto em questão. 
